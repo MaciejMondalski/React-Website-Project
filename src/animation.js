@@ -47,6 +47,7 @@ export const photoAnim = {
     transition: {
       ease: "easeOut",
       duration: 0.75,
+      delay: 0.5,
     },
   },
 };
